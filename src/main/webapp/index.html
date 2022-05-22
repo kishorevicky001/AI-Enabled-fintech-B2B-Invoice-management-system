@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="AddData" method="post">
+Enter business_code:<input type="text" name="business_code">
+<input type="text" name="cust_number">
+<input type="text" name="clear_date">
+<input type="submit">
+
+</form>
+
+<form action="DeleteData" method="post">
+Enter sl_no:<input type="text" name="sl_no">
+
+<input type="submit">
+
+
+</form><br><br>
+
+<form action="EditData" method="post">
+Enter sl_no:<input type="text" name="sl_no">
+Enter invoice_currency:<input type="text" name="invoice_currency">
+Enter cust_payment_terms:<input type="text" name="cust_payment_terms">
+<input type="submit">
+</form>
+
+
+<form action="AdvanceSearch" method="get">
+Enter invoice_id:<input type="text" name="invoice_id">
+Enter doc_id:<input type="text" name="doc_id">
+Enter cust_number:<input type="text" name="cust_number">
+Enter buisness_year:<input type="text" name="buisness_year">
+<input type="submit">
+</form>
+
+
+
+<form action="Search" method="get">
+
+Enter cust_number:<input type="text" name="cust_number">
+<input type="submit">
+</form><br><br><br>
+
+
+
+<form action="AddData" method="post" align="center">
+<h1 align="center" style="color:blue;">Enter values to add into the data base</h1><br>
+
+<input type="text" placeholder="Bussiness code"  name="business_code">
+
+<input type="text" placeholder="Customer number"  name="cust_number">
+
+<input type="text" placeholder="Clear date" name="clear_date">
+
+<input type="text" placeholder="Bussiness year"  name="buisness_year"><br><br>
+
+<input type="text" placeholder="Document id"  name="doc_id">
+
+<input type="text" placeholder="posting date" name="posting_date">
+
+<input type="text" placeholder="Document Create Date"  name="document_create_date">
+<br><br>
+
+<input type="text" placeholder="Due Date" name="due_in_date">
+
+<input type="text" placeholder="Invoice Currency"  name="invoice_currency">
+
+<input type="text" placeholder="Document type"  name="document_type">
+
+<input type="text" placeholder="Posting Id"  name="posting_id"><br><br>
+
+<input type="text" placeholder="Total open amount"  name="total_open_amount">
+<input type="text" placeholder="base_line_create_date"  name="base_line_create_date">
+<input type="text" placeholder="Customer Payment Terms"  name="cust_payment_terms">
+
+<input type="text" placeholder="Invoice Id" name="invoice_id"><br><br>
+
+<input type="submit">
+
+</form>
+
+
+
+<form action="Search" method="get">
+cust_number:<input type="text" name="cust_number">
+<input type="submit">
+
+
+
+</form>
+</body>
+</html>

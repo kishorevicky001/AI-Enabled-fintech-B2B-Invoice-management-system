@@ -1,0 +1,99 @@
+body {
+  background-color: #2d4250;
+  color: white;
+  font-family: sans-serif;
+}
+.footer{
+  text-align: center;
+  justify-content: center;
+}
+#abcproduct {
+   position: fixed;
+   top: 0;
+   left: 0;
+}
+#hrclogo {
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  top: 0.5px;
+ 
+  margin-left: 300px;
+}
+.section1 {
+  background-color: #283d4a;  
+  text-align: center;
+  font-size: small;
+  color: white;
+  display: flex;
+  font-size: 25px;
+  margin-bottom: 10px;
+  height: 80px;
+  font-family: monospace;
+}
+.section2 {
+  font-size: smaller;
+  display: contents;
+  
+}
+button[disabled] {
+  
+  background-color: #282c34 !important;
+  border-width: 1px !important;
+  border-color: dodgerblue !important;
+}
+button[enabled] {
+  color: white;
+  border-color: dodgerblue;
+}
+button {
+  background-color: #282c34;
+  color: white;
+  border-color: dodgerblue;
+  font-size: small;
+  padding: 7px;
+  border-radius: 10px;
+  border-width: 3px;
+  
+}
+
+#searchid {
+  align-self: center;
+  font-size: small;
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+  padding-left: 20px;
+  margin-left: 150px;
+  margin-right: 100px;
+}
+.btn {
+  width: 180px;
+}
+.Datagrid {
+  color: white;
+}
+.dialog{
+  background-color: #373c4b;
+  color: white;
+  
+}
+.outlined-multiline-flexible{
+  background-color: white;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+  color: white;
+}
+.css-levciy-MuiTablePagination-displayedRows{
+  color: white;
+}
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel{
+  color:white;
+}
+.css-194a1fa-MuiSelect-select-MuiInputBase-input.MuiSelect-select{
+  color: white;
+}
+.css-ptiqhd-MuiSvgIcon-root{
+  color:white ;
+}

@@ -1,0 +1,77 @@
+
+  
+  .section2 {
+    font-size: smaller;
+    display: contents;
+    margin-top: '80px';
+  }
+  button {
+    background-color: #282c34;
+    color: white;
+    border-color: dodgerblue;
+    font-size: small;
+    padding: 7px;
+    border-radius: 10px;
+   
+  }
+  .head{margin-bottom: '10px';}
+  #searchid {
+    align-self: center;
+    font-size: small;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 150px;
+    margin-right: 100px;
+  }
+  .btn {
+    width: 180px;
+  }
+  .css-levciy-MuiTablePagination-displayedRows {
+    color:white
+  }
+  .css-i4bv87-MuiSvgIcon-root {
+    color:white
+  }
+  .css-de9k3v-MuiDataGrid-selectedRowCount {
+    color:white
+  }
+  .css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    background-color: #373c4b !important;
+    color: white !important;
+  }
+  .css-qfso29-MuiTypography-root-MuiDialogContentText-root {
+    color:white !important
+  }
+  .css-1kuvi62-MuiInputBase-root-MuiFilledInput-root {
+    background-color: white !important;
+  }
+  .css-rnmm7m-MuiPaper-root-MuiDialog-paper {
+    background-color: #373c4b !important;
+
+  }
+  .css-bdhsul-MuiTypography-root-MuiDialogTitle-root {
+    color: white !important;
+
+  }
+  .css-10botns-MuiInputBase-input-MuiFilledInput-input {
+    background-color: white !important;
+  }
+  .css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel{
+    color:white
+  }
+  .css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input {
+color:white
+  }
+  button[disabled] {
+    border: none;
+    background-color: #282c34 !important;
+  }
+  button[enabled] {
+    color: white;
+    border-color: dodgerblue;
+  }
+  .outlined-multiline-flexible{
+    background-color: white;
+  }

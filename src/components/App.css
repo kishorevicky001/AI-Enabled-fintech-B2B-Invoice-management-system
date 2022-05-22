@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+.Bgcolor{background-color: #283D4A;} 
+body{background-color: #283D4A;}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+.footer{margin-top:0rem;
+  padding:1rem;
+  background-color:#2d4250 ;
+  text-align: center;
+ 
+  align-items:center;
+  justify-content: center;
+  height: '200px';
+  
+}
+.Bt1{background-color:blue;}
+.Btngrp{margin:0px 0px 10px 0px;}
+.Datagrid{color:white}
+/*.Button{sx={{
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'left',
+  '& > *': {
+    m: 1,
+  },
+}}}*/
+
+
+#outlined-search{margin: -10px;}
+.footer1{
+  margin-top: 7ch;
+  color: white;
+  
+  text-align:center;
+  
+
+}
+.btn{
+  color: white;
+
+}
+button{
+  color:white
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+ color:white !important;
+ border:#14AFF1 ;
+ margin-bottom: 1ch !important;
+}
+.footer1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.footer1 a{
+  text-decoration: none;
+  color: aqua;
+  padding-right: 5px;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+}
